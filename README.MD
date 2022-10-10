@@ -47,13 +47,14 @@ Here are a few important questions that we might seek to address:
 ![image](Missing_value_imputation.PNG)
 <br>
 
-![image](Missing_value_methods.PNG)
+![image](Missing_value_method.PNG)
+
 <br>
 
 ### Outlier Treatment
 <br>
 
-![image](Outlier.PNG)
+![image](Outliers.PNG)
 <br>
 
 ### After Cleaning data , it is time to perform Univariate Analysis
